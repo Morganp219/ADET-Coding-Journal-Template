@@ -7,8 +7,13 @@ During your time at Fort Hays Tech | Northwest, you will encounter new syntax, p
 
 These Journals do not have to have *dear journal*, or any of that; instead, put straight to the point, you should be able to write these in about 5 minutes! Do this any time you learn something new, research something new, or just as part of the day. 
 
-Template.md - We gave you a suggested template; you do not need to fill out each one, just the ones that will assist you in your future endeavors 
-
+- **Write when you learn, fix, break, or explore something.**
+- You don’t have to fill out every prompt — just what helps *you*.
+- Each entry should take **~5 minutes**.
+- Goal: 5 entries per week.
+Life happens — the point is to build a habit. If you learn something new, even small, log it. If you hit 20 entries by the end of the month, you’re on track!
+- Markdown format preferred, but plain text is fine.
+- 
 Date: _____________
 Project/Topic: _____________
 Language: _____________
