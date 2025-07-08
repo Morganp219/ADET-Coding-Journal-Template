@@ -13,7 +13,7 @@ These Journals do not have to have *dear journal*, or any of that; instead, put 
 - Goal: 5 entries per week.
 Life happens — the point is to build a habit. If you learn something new, even small, log it. If you hit 20 entries by the end of the month, you’re on track!
 - Markdown format preferred, but plain text is fine.
-- 
+
 Date: _____________
 Project/Topic: _____________
 Language: _____________
