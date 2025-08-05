@@ -1,4 +1,4 @@
-# My Coding Journal
+# My Coding Journal & Cheat Sheets
 Your Name: ____________
 
 "_your brain’s cache isn’t as big as you think it’s time to log your journey like a true dev hero_" - Devlink Tips
